@@ -1,4 +1,4 @@
-# partisles
+# partisles 100% css html 
 Css farm work
  
 The world is a Bookstore and We are Your Clerks!
@@ -17,7 +17,9 @@ LEARN MORE
 Seamless Access
 Enable single-click info search instead of browsing through hundreds of blogs, book ratings, and reviews. Simply type in the source name and start reading.
 
-LEARN MORE 
+LEARN MORE
+
+https://hacktoberfest.digitalocean.com/
 
 Extended Collection of Resources
 Find bestselling works and masterpieces from web pages and articles to scientific books, how-to guides, and experts’ tutorials that cover numerous topics and fields.
